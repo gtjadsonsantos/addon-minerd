@@ -6,7 +6,7 @@
   "url": "https://github.com/gtjadsonsantos/addon-minerd/tree/main/minerd",
   "startup": "application",
   "arch": ["amd64","i386"],
-  "image": "ghcr.io/gtjadsonsantos/minerd-{arch}",
+  "image": "ghcr.io/gtjadsonsantos/addon-minerd-{arch}",
   "init": false,
   "hassio_api": true,
   "usb": true,
